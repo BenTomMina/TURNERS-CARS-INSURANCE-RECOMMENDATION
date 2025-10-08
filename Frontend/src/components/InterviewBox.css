@@ -1,0 +1,31 @@
+.interviewBox {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.interviewHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.interviewHeader h1 {
+  margin: 0;
+  color: white;
+}
+
+.newChatBtn {
+  background: #f6eced;
+  color: #075985;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.newChatBtn:hover {
+  background: #ffffff;
+}

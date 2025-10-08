@@ -1,0 +1,27 @@
+.startForm {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.startForm h1 {
+  color: white;
+}
+.startForm input {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.startForm button {
+  padding: 0.6rem;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.startForm button:hover {
+  background: #1e40af;
+}

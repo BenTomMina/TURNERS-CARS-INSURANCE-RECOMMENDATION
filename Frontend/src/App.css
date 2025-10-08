@@ -1,0 +1,16 @@
+/* Background */
+.appBody {
+  height: 100vh;
+  padding-top: 100px;
+  background-image: url(./assets/turnerscarsbg.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+/* General Container */
+.appContainer {
+  max-width: 600px;
+  margin: auto;
+  font-family: Garamond, serif;
+  
+}

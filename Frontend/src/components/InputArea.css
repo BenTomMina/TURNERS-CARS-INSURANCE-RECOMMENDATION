@@ -1,0 +1,32 @@
+.inputArea {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.inputArea textarea {
+  flex-grow: 1;
+  padding: 0.5rem;
+  height: 100px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  resize: none;
+}
+
+.inputArea button {
+  padding: 0.6rem 1rem;
+  background: #0052a4;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.inputArea button:hover {
+  background: #0380fd;
+}
+
+button:disabled {
+  background-color: #ccc; /* Light gray */
+  color: #888; /* Dim text */
+  cursor: not-allowed;
+}
