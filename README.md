@@ -1,4 +1,4 @@
-# Welcome to **Turners Cars - Insurance Recommendation** 🚀
+# Welcome to **Turners Cars - Insurance Recommendation**
 
 ## Overview
 
